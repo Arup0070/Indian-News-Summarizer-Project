@@ -1,2 +1,2 @@
 # Indian-News-Summarizer-Project
-This is a Deep Learning NLP Project. The goal of the project is to create a web-based API that can summarize News in a efficient way this API supports English, Hindi and Bengali language and can summarize news articles in a brief manner.    
+This is a Deep Learning NLP Project. The goal of the project is to create a web-based API that can summarize News in a efficient way this API supports English, Hindi and Bengali language and can summarize news articles in a brief manner. This API uses Bert-Large-CNN model used and fine tuned with 12000 indian news artical and pytorch GPU used for fine tune the model.
