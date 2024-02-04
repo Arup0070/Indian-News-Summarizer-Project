@@ -1,0 +1,14 @@
+pandas
+transformers
+torch
+accelerate
+datasets
+bertviz
+umap-learn
+sentencepiece
+urllib3
+py7zr
+pymongo
+certifi
+streamlit
+streamlit-option-menu
